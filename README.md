@@ -6,7 +6,7 @@ The application is deployed using **Streamlit** and **Hugging Face Spaces**.
 ---
 
 ## 🚀 Live Demo
-🔗 https://huggingface.co/spaces/maheshdugyani/Corn_Leaf_Disease_Detection/corn-leaf-disease-detection
+🔗 https://huggingface.co/spaces/maheshdugyani/Corn_Leaf_Disease_Detection
 
 ---
 
@@ -47,4 +47,3 @@ This project aims to **automatically detect corn leaf diseases** from images, en
 - Scikit-learn  
 - Streamlit  
 - Hugging Face Spaces  
-
